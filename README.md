@@ -57,12 +57,6 @@ Coleção de exemplos fiscais em TypeScript — *collection of fiscal TypeScript
 | [**cnpj-ie-fornecedor**](https://github.com/diarleyduarte17-droid/cnpj-ie-fornecedor) | Validação de CNPJ e IE de fornecedor |
 | [**sped-confronto**](https://github.com/diarleyduarte17-droid/sped-confronto) | Confronto SPED Fiscal × NF-e |
 
-## 🌱 Próximos passos
-
-- [ ] Mais projetos de automação com IA
-- [ ] Testes automatizados e exemplos executáveis nos repositórios fiscais
-- [ ] Conteúdo sobre automação e liderança no LinkedIn
-
 ---
 
 <div align="center">
